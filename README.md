@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: helenoleg@aol.com, mixcaricature1@yahoo.com
-At: 2026-09-16 15:01:20
-Id: D1XvJrxI
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: raymondblankenship660@yahoo.com, jnrigg0@hotmail.com
+At: 2026-09-16 15:01:59
+Id: 3mzRkTvL
